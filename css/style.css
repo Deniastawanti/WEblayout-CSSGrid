@@ -96,3 +96,15 @@ h6 {
   margin-right: .5rem;
 }
 
+/* showcase */
+#showcase {
+    color:#fff;
+    background:#333;
+    padding:2rem;
+    position: relative;
+}
+
+#showcase:before {
+    content:'';
+    background: url()
+}
